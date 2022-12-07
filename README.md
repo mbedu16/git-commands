@@ -6,4 +6,4 @@ This is the first command I probably had to use with git. It creates a copy of t
 ### Local Repository ###
 It is also possible to clone from a local repository by providing its path in the local machine instead of the url.
 You can use the '-l' or '--local' flag to bypass the GIT transport mechanism.
-> git clone -l /PATH/TO/REPOSITORY
+> git clone --local ~/path/to/repository
