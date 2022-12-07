@@ -1,4 +1,5 @@
 # GIT-commands
+Following are the git commands that I came across and did not feel to lazy to write about. If you want to dive deeper than the shallow level of my descriptions, why not click on the command and visit its page to learn a lot more...
 ## [git clone](https://www.git-scm.com/docs/git-clone)
 This is the first command I probably had to use with git. 
 ### Remote Repository ###
@@ -10,4 +11,4 @@ You can use the '-l' or '--local' flag to bypass the GIT transport mechanism.
 > git clone --local ~/path/to/repository
 ---
 ## [git log](https://www.git-scm.com/docs/git-log)
-For me, this is the next most logical cammand to use after cloning a repository to work with.
+For me, this is the next most logical cammand to use after cloning a repository to work with. This logs (or lists) all reachable commits in the repository.
