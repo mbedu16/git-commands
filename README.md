@@ -9,7 +9,6 @@ It creates a copy of the remote repository (a directory on git hub) you want to 
 It is also used to clone from a local repository by providing its path in the local machine instead of the url.
 You can use the '-l' or '--local' flag to bypass the GIT transport mechanism.
 > git clone --local ~/path/to/repository
----
 ## [git log](https://www.git-scm.com/docs/git-log)
 For me, this is the next most logical cammand to use after cloning a repository to work with. This logs (or lists) all reachable commits in the repository.
 ## [git status](https://www.git-scm.com/docs/git-status)
