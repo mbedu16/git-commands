@@ -17,5 +17,5 @@ You cloned the repo and you checked all the commits made by your peers. You are 
 ![git status command response](/gitStatus.png/?raw=true, "git status response")
 ## [git add](https://www.git-scm.com/docs/git-add)
 Once you start working on your files, you would want use this command to add the file contents to the index prior to commiting them to the stage. You can add multiple times before you commit the changes.
-## [git commit] (https://www.git-scm.com/docs/git-commit)
+## [git commit](https://www.git-scm.com/docs/git-commit)
 Just as this command indicates in its name, when invoked, it can be used to commit the changes you made to this point. What gets recorded are the files you have added to the queue withthe git add command.
