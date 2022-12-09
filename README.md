@@ -13,3 +13,5 @@ You can use the '-l' or '--local' flag to bypass the GIT transport mechanism.
 For me, this is the next most logical cammand to use after cloning a repository to work with. This logs (or lists) all reachable commits in the repository.
 ## [git status](https://www.git-scm.com/docs/git-status)
 You cloned the repo and you checked all the commits made by your peers. You are now feeling it and start to make your own changes to the programme. git status is your best friend at this stage. It lists all the changed elements of the tree compared with what's already there, giving you insight on when is appropriate to make a commit.
+## [git add](https://www.git-scm.com/docs/git-add)
+Once you start working on your files, you can use this command to add the file contents to the index prior to commiting them to the stage
